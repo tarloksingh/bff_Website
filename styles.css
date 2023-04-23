@@ -37,484 +37,484 @@ body {
   animation-timing-function: linear;
 }
 .bokeh div:nth-child(1) {
-  width: 40.9503242901rem;
-  height: 40.9503242901rem;
-  top: 40%;
-  left: 58%;
+  width: 40.6439625006rem;
+  height: 40.6439625006rem;
+  top: 11%;
+  left: 48%;
   color: rgba(1, 142, 109, 0.537254902);
-  opacity: 31.1;
-  box-shadow: 41.0503242901rem 0 0.1676111685rem currentColor;
-  filter: brightness(157%);
-  transform-origin: -1rem -2rem;
-  animation-duration: 24s;
-}
-.bokeh div:nth-child(2) {
-  width: 40.6446686844rem;
-  height: 40.6446686844rem;
-  top: 57%;
-  left: 47%;
-  color: rgba(1, 142, 109, 0.537254902);
-  opacity: 23;
-  box-shadow: 40.7446686844rem 0 0.4800226463rem currentColor;
-  filter: brightness(147%);
-  transform-origin: -19rem 8rem;
-  animation-duration: 21s;
-}
-.bokeh div:nth-child(3) {
-  width: 40.5414274177rem;
-  height: 40.5414274177rem;
-  top: 44%;
-  left: 90%;
-  color: rgba(144, 0, 5, 0.5176470588);
-  opacity: 31.85;
-  box-shadow: 40.6414274177rem 0 0.7652946734rem currentColor;
-  filter: brightness(185%);
-  transform-origin: -6rem 5rem;
-  animation-duration: 21s;
-}
-.bokeh div:nth-child(4) {
-  width: 40.1483264729rem;
-  height: 40.1483264729rem;
-  top: 17%;
-  left: 50%;
-  color: rgba(144, 0, 5, 0.5176470588);
-  opacity: 23.9;
-  box-shadow: 40.2483264729rem 0 0.5585132588rem currentColor;
-  filter: brightness(212%);
-  transform-origin: -15rem 12rem;
-  animation-duration: 17s;
-}
-.bokeh div:nth-child(5) {
-  width: 40.8675358288rem;
-  height: 40.8675358288rem;
-  top: 60%;
-  left: 63%;
-  color: rgba(3, 97, 164, 0.537254902);
-  opacity: 26.9;
-  box-shadow: 40.9675358288rem 0 1.0481406714rem currentColor;
-  filter: brightness(167%);
-  transform-origin: 8rem 3rem;
+  opacity: 20.15;
+  box-shadow: 40.7439625006rem 0 0.362797371rem currentColor;
+  filter: brightness(162%);
+  transform-origin: -18rem -12rem;
   animation-duration: 22s;
 }
-.bokeh div:nth-child(6) {
-  width: 40.7514499982rem;
-  height: 40.7514499982rem;
-  top: 98%;
-  left: 34%;
-  color: rgba(144, 0, 5, 0.5176470588);
-  opacity: 20.6;
-  box-shadow: 40.8514499982rem 0 1.0196838425rem currentColor;
-  filter: brightness(131%);
-  transform-origin: 6rem -2rem;
+.bokeh div:nth-child(2) {
+  width: 40.6368761776rem;
+  height: 40.6368761776rem;
+  top: 30%;
+  left: 22%;
+  color: rgba(1, 142, 109, 0.537254902);
+  opacity: 29;
+  box-shadow: 40.7368761776rem 0 0.4483030429rem currentColor;
+  filter: brightness(150%);
+  transform-origin: -9rem -19rem;
+  animation-duration: 22s;
+}
+.bokeh div:nth-child(3) {
+  width: 40.0086950055rem;
+  height: 40.0086950055rem;
+  top: 8%;
+  left: 8%;
+  color: rgba(1, 142, 109, 0.537254902);
+  opacity: 30.8;
+  box-shadow: 40.1086950055rem 0 1.091263699rem currentColor;
+  filter: brightness(165%);
+  transform-origin: 17rem 18rem;
   animation-duration: 23s;
+}
+.bokeh div:nth-child(4) {
+  width: 40.9138064129rem;
+  height: 40.9138064129rem;
+  top: 39%;
+  left: 86%;
+  color: rgba(3, 97, 164, 0.537254902);
+  opacity: 29.3;
+  box-shadow: 41.0138064129rem 0 0.1976378046rem currentColor;
+  filter: brightness(210%);
+  transform-origin: 8rem 4rem;
+  animation-duration: 25s;
+}
+.bokeh div:nth-child(5) {
+  width: 40.4766717305rem;
+  height: 40.4766717305rem;
+  top: 66%;
+  left: 85%;
+  color: rgba(144, 0, 5, 0.5176470588);
+  opacity: 23.75;
+  box-shadow: 40.5766717305rem 0 0.1374428911rem currentColor;
+  filter: brightness(193%);
+  transform-origin: 3rem 6rem;
+  animation-duration: 26s;
+}
+.bokeh div:nth-child(6) {
+  width: 40.8784108824rem;
+  height: 40.8784108824rem;
+  top: 96%;
+  left: 8%;
+  color: rgba(144, 0, 5, 0.5176470588);
+  opacity: 25.85;
+  box-shadow: 40.9784108824rem 0 0.6823519231rem currentColor;
+  filter: brightness(170%);
+  transform-origin: 13rem 9rem;
+  animation-duration: 17s;
 }
 .bokeh div:nth-child(7) {
-  width: 40.6431605462rem;
-  height: 40.6431605462rem;
-  top: 92%;
-  left: 91%;
-  color: rgba(144, 0, 5, 0.5176470588);
-  opacity: 27.2;
-  box-shadow: 40.7431605462rem 0 0.8244308901rem currentColor;
-  filter: brightness(202%);
-  transform-origin: 1rem 5rem;
-  animation-duration: 23s;
-}
-.bokeh div:nth-child(8) {
-  width: 40.84865512rem;
-  height: 40.84865512rem;
-  top: 44%;
-  left: 19%;
-  color: rgba(144, 0, 5, 0.5176470588);
-  opacity: 28.85;
-  box-shadow: 40.94865512rem 0 0.9102836355rem currentColor;
-  filter: brightness(207%);
-  transform-origin: 18rem 19rem;
-  animation-duration: 19s;
-}
-.bokeh div:nth-child(9) {
-  width: 40.2419187516rem;
-  height: 40.2419187516rem;
-  top: 80%;
-  left: 66%;
+  width: 40.9511492047rem;
+  height: 40.9511492047rem;
+  top: 37%;
+  left: 34%;
   color: rgba(1, 142, 109, 0.537254902);
-  opacity: 27.95;
-  box-shadow: 40.3419187516rem 0 0.2299463672rem currentColor;
-  filter: brightness(219%);
-  transform-origin: -1rem 18rem;
+  opacity: 30.5;
+  box-shadow: 41.0511492047rem 0 1.0078145843rem currentColor;
+  filter: brightness(114%);
+  transform-origin: -7rem -7rem;
   animation-duration: 24s;
 }
+.bokeh div:nth-child(8) {
+  width: 40.5753169839rem;
+  height: 40.5753169839rem;
+  top: 3%;
+  left: 74%;
+  color: rgba(1, 142, 109, 0.537254902);
+  opacity: 26.6;
+  box-shadow: 40.6753169839rem 0 0.8767223329rem currentColor;
+  filter: brightness(127%);
+  transform-origin: -14rem 13rem;
+  animation-duration: 26s;
+}
+.bokeh div:nth-child(9) {
+  width: 40.6452808455rem;
+  height: 40.6452808455rem;
+  top: 33%;
+  left: 8%;
+  color: rgba(1, 142, 109, 0.537254902);
+  opacity: 26.3;
+  box-shadow: 40.7452808455rem 0 0.5062392379rem currentColor;
+  filter: brightness(182%);
+  transform-origin: -8rem -2rem;
+  animation-duration: 17s;
+}
 .bokeh div:nth-child(10) {
-  width: 40.3346400476rem;
-  height: 40.3346400476rem;
-  top: 72%;
-  left: 40%;
-  color: rgba(144, 0, 5, 0.5176470588);
-  opacity: 23;
-  box-shadow: 40.4346400476rem 0 0.2806727587rem currentColor;
-  filter: brightness(149%);
-  transform-origin: -1rem -9rem;
-  animation-duration: 20s;
+  width: 40.8744845732rem;
+  height: 40.8744845732rem;
+  top: 36%;
+  left: 72%;
+  color: rgba(3, 97, 164, 0.537254902);
+  opacity: 25.7;
+  box-shadow: 40.9744845732rem 0 0.2663104664rem currentColor;
+  filter: brightness(148%);
+  transform-origin: -5rem 17rem;
+  animation-duration: 21s;
 }
 .bokeh div:nth-child(11) {
-  width: 40.9564882746rem;
-  height: 40.9564882746rem;
-  top: 89%;
-  left: 71%;
+  width: 40.0810714408rem;
+  height: 40.0810714408rem;
+  top: 44%;
+  left: 54%;
   color: rgba(144, 0, 5, 0.5176470588);
-  opacity: 22.4;
-  box-shadow: 41.0564882746rem 0 1.0319964925rem currentColor;
-  filter: brightness(212%);
-  transform-origin: -11rem 5rem;
-  animation-duration: 20s;
+  opacity: 28.4;
+  box-shadow: 40.1810714408rem 0 0.3536223087rem currentColor;
+  filter: brightness(135%);
+  transform-origin: 7rem -14rem;
+  animation-duration: 18s;
 }
 .bokeh div:nth-child(12) {
-  width: 40.582124346rem;
-  height: 40.582124346rem;
-  top: 77%;
-  left: 49%;
+  width: 40.6639311865rem;
+  height: 40.6639311865rem;
+  top: 23%;
+  left: 2%;
   color: rgba(1, 142, 109, 0.537254902);
-  opacity: 23.3;
-  box-shadow: 40.682124346rem 0 0.7293067356rem currentColor;
-  filter: brightness(224%);
-  transform-origin: 15rem -11rem;
-  animation-duration: 20s;
+  opacity: 20.15;
+  box-shadow: 40.7639311865rem 0 0.7847916598rem currentColor;
+  filter: brightness(188%);
+  transform-origin: -4rem -1rem;
+  animation-duration: 18s;
 }
 .bokeh div:nth-child(13) {
-  width: 40.9411259954rem;
-  height: 40.9411259954rem;
-  top: 48%;
-  left: 61%;
-  color: rgba(3, 97, 164, 0.537254902);
-  opacity: 24.2;
-  box-shadow: 41.0411259954rem 0 0.8802762438rem currentColor;
-  filter: brightness(104%);
-  transform-origin: 20rem 0rem;
+  width: 40.7934745536rem;
+  height: 40.7934745536rem;
+  top: 99%;
+  left: 95%;
+  color: rgba(1, 142, 109, 0.537254902);
+  opacity: 29.45;
+  box-shadow: 40.8934745536rem 0 0.2501446462rem currentColor;
+  filter: brightness(148%);
+  transform-origin: 6rem -15rem;
   animation-duration: 17s;
 }
 .bokeh div:nth-child(14) {
-  width: 40.6905925861rem;
-  height: 40.6905925861rem;
-  top: 41%;
-  left: 86%;
-  color: rgba(3, 97, 164, 0.537254902);
-  opacity: 21.05;
-  box-shadow: 40.7905925861rem 0 0.9505577896rem currentColor;
-  filter: brightness(240%);
-  transform-origin: -12rem -5rem;
-  animation-duration: 18s;
+  width: 40.3957891743rem;
+  height: 40.3957891743rem;
+  top: 16%;
+  left: 90%;
+  color: rgba(144, 0, 5, 0.5176470588);
+  opacity: 25.55;
+  box-shadow: 40.4957891743rem 0 0.8787016948rem currentColor;
+  filter: brightness(203%);
+  transform-origin: -1rem 20rem;
+  animation-duration: 25s;
 }
 .bokeh div:nth-child(15) {
-  width: 40.6455336566rem;
-  height: 40.6455336566rem;
-  top: 2%;
-  left: 58%;
+  width: 40.3386322239rem;
+  height: 40.3386322239rem;
+  top: 53%;
+  left: 21%;
   color: rgba(144, 0, 5, 0.5176470588);
-  opacity: 20.3;
-  box-shadow: 40.7455336566rem 0 1.0616513601rem currentColor;
-  filter: brightness(222%);
-  transform-origin: -4rem 14rem;
+  opacity: 30.35;
+  box-shadow: 40.4386322239rem 0 0.237821446rem currentColor;
+  filter: brightness(231%);
+  transform-origin: 20rem 13rem;
   animation-duration: 20s;
 }
 .bokeh div:nth-child(16) {
-  width: 40.5628094241rem;
-  height: 40.5628094241rem;
-  top: 26%;
-  left: 59%;
-  color: rgba(1, 142, 109, 0.537254902);
-  opacity: 25.1;
-  box-shadow: 40.6628094241rem 0 0.7302091721rem currentColor;
-  filter: brightness(135%);
-  transform-origin: -17rem 2rem;
-  animation-duration: 20s;
-}
-.bokeh div:nth-child(17) {
-  width: 40.8937399945rem;
-  height: 40.8937399945rem;
+  width: 40.5691873291rem;
+  height: 40.5691873291rem;
   top: 96%;
-  left: 25%;
-  color: rgba(1, 142, 109, 0.537254902);
-  opacity: 28.55;
-  box-shadow: 40.9937399945rem 0 0.7334223211rem currentColor;
-  filter: brightness(110%);
-  transform-origin: -6rem 5rem;
-  animation-duration: 20s;
-}
-.bokeh div:nth-child(18) {
-  width: 40.5066897715rem;
-  height: 40.5066897715rem;
-  top: 68%;
-  left: 11%;
-  color: rgba(144, 0, 5, 0.5176470588);
-  opacity: 27.35;
-  box-shadow: 40.6066897715rem 0 0.3876052947rem currentColor;
-  filter: brightness(128%);
-  transform-origin: -12rem -17rem;
-  animation-duration: 21s;
-}
-.bokeh div:nth-child(19) {
-  width: 40.7138150052rem;
-  height: 40.7138150052rem;
-  top: 5%;
-  left: 97%;
-  color: rgba(1, 142, 109, 0.537254902);
-  opacity: 27.05;
-  box-shadow: 40.8138150052rem 0 0.7134900991rem currentColor;
-  filter: brightness(192%);
-  transform-origin: -3rem -15rem;
-  animation-duration: 24s;
-}
-.bokeh div:nth-child(20) {
-  width: 40.8837077204rem;
-  height: 40.8837077204rem;
-  top: 38%;
-  left: 67%;
-  color: rgba(1, 142, 109, 0.537254902);
-  opacity: 30.2;
-  box-shadow: 40.9837077204rem 0 0.1328853791rem currentColor;
-  filter: brightness(244%);
-  transform-origin: -8rem 18rem;
-  animation-duration: 24s;
-}
-.bokeh div:nth-child(21) {
-  width: 40.4390305599rem;
-  height: 40.4390305599rem;
-  top: 40%;
-  left: 86%;
-  color: rgba(1, 142, 109, 0.537254902);
-  opacity: 29.75;
-  box-shadow: 40.5390305599rem 0 0.6416263509rem currentColor;
-  filter: brightness(177%);
-  transform-origin: -4rem -17rem;
-  animation-duration: 25s;
-}
-.bokeh div:nth-child(22) {
-  width: 40.5948350259rem;
-  height: 40.5948350259rem;
-  top: 88%;
-  left: 57%;
-  color: rgba(144, 0, 5, 0.5176470588);
-  opacity: 26.15;
-  box-shadow: 40.6948350259rem 0 0.6723592847rem currentColor;
-  filter: brightness(117%);
-  transform-origin: 8rem 6rem;
-  animation-duration: 21s;
-}
-.bokeh div:nth-child(23) {
-  width: 40.9742634655rem;
-  height: 40.9742634655rem;
-  top: 6%;
-  left: 63%;
-  color: rgba(144, 0, 5, 0.5176470588);
-  opacity: 20.9;
-  box-shadow: 41.0742634655rem 0 0.2788128449rem currentColor;
-  filter: brightness(150%);
-  transform-origin: 18rem -2rem;
-  animation-duration: 18s;
-}
-.bokeh div:nth-child(24) {
-  width: 40.3139361278rem;
-  height: 40.3139361278rem;
-  top: 76%;
-  left: 32%;
+  left: 46%;
   color: rgba(3, 97, 164, 0.537254902);
-  opacity: 23.6;
-  box-shadow: 40.4139361278rem 0 0.5740021807rem currentColor;
-  filter: brightness(157%);
-  transform-origin: 8rem -19rem;
-  animation-duration: 21s;
-}
-.bokeh div:nth-child(25) {
-  width: 40.561534334rem;
-  height: 40.561534334rem;
-  top: 61%;
-  left: 31%;
-  color: rgba(1, 142, 109, 0.537254902);
-  opacity: 29.6;
-  box-shadow: 40.661534334rem 0 0.1105379322rem currentColor;
-  filter: brightness(164%);
-  transform-origin: -7rem 6rem;
-  animation-duration: 21s;
-}
-.bokeh div:nth-child(26) {
-  width: 40.0031132733rem;
-  height: 40.0031132733rem;
-  top: 78%;
-  left: 44%;
-  color: rgba(144, 0, 5, 0.5176470588);
-  opacity: 21.5;
-  box-shadow: 40.1031132733rem 0 0.973007064rem currentColor;
-  filter: brightness(250%);
-  transform-origin: 1rem -14rem;
-  animation-duration: 18s;
-}
-.bokeh div:nth-child(27) {
-  width: 40.9059311894rem;
-  height: 40.9059311894rem;
-  top: 22%;
-  left: 99%;
-  color: rgba(1, 142, 109, 0.537254902);
-  opacity: 24.05;
-  box-shadow: 41.0059311894rem 0 0.2536322808rem currentColor;
-  filter: brightness(169%);
-  transform-origin: 18rem -19rem;
-  animation-duration: 18s;
-}
-.bokeh div:nth-child(28) {
-  width: 40.0858858978rem;
-  height: 40.0858858978rem;
-  top: 76%;
-  left: 82%;
-  color: rgba(1, 142, 109, 0.537254902);
-  opacity: 23.3;
-  box-shadow: 40.1858858978rem 0 0.5099658333rem currentColor;
-  filter: brightness(247%);
-  transform-origin: -1rem 5rem;
-  animation-duration: 23s;
-}
-.bokeh div:nth-child(29) {
-  width: 40.545547924rem;
-  height: 40.545547924rem;
-  top: 33%;
-  left: 59%;
-  color: rgba(1, 142, 109, 0.537254902);
-  opacity: 29.15;
-  box-shadow: 40.645547924rem 0 0.8975782632rem currentColor;
-  filter: brightness(222%);
-  transform-origin: -2rem -19rem;
+  opacity: 20.75;
+  box-shadow: 40.6691873291rem 0 0.9341502984rem currentColor;
+  filter: brightness(151%);
+  transform-origin: -3rem 9rem;
   animation-duration: 26s;
 }
-.bokeh div:nth-child(30) {
-  width: 40.2192806678rem;
-  height: 40.2192806678rem;
-  top: 11%;
-  left: 60%;
+.bokeh div:nth-child(17) {
+  width: 40.0540434698rem;
+  height: 40.0540434698rem;
+  top: 15%;
+  left: 49%;
   color: rgba(144, 0, 5, 0.5176470588);
-  opacity: 26.6;
-  box-shadow: 40.3192806678rem 0 0.7283631149rem currentColor;
-  filter: brightness(156%);
-  transform-origin: -4rem 15rem;
-  animation-duration: 18s;
-}
-.bokeh div:nth-child(31) {
-  width: 40.6129641077rem;
-  height: 40.6129641077rem;
-  top: 35%;
-  left: 10%;
-  color: rgba(3, 97, 164, 0.537254902);
-  opacity: 25.4;
-  box-shadow: 40.7129641077rem 0 0.9386909439rem currentColor;
-  filter: brightness(240%);
-  transform-origin: -5rem -18rem;
-  animation-duration: 18s;
-}
-.bokeh div:nth-child(32) {
-  width: 40.5423251993rem;
-  height: 40.5423251993rem;
-  top: 58%;
-  left: 44%;
-  color: rgba(3, 97, 164, 0.537254902);
-  opacity: 29;
-  box-shadow: 40.6423251993rem 0 0.8384424378rem currentColor;
-  filter: brightness(189%);
-  transform-origin: 11rem 13rem;
-  animation-duration: 22s;
-}
-.bokeh div:nth-child(33) {
-  width: 40.4489737681rem;
-  height: 40.4489737681rem;
-  top: 54%;
-  left: 90%;
-  color: rgba(3, 97, 164, 0.537254902);
-  opacity: 27.65;
-  box-shadow: 40.5489737681rem 0 0.1145122663rem currentColor;
-  filter: brightness(243%);
-  transform-origin: 5rem -19rem;
-  animation-duration: 22s;
-}
-.bokeh div:nth-child(34) {
-  width: 40.78145965rem;
-  height: 40.78145965rem;
-  top: 83%;
-  left: 43%;
-  color: rgba(3, 97, 164, 0.537254902);
-  opacity: 31.55;
-  box-shadow: 40.88145965rem 0 0.8642853507rem currentColor;
-  filter: brightness(161%);
-  transform-origin: 17rem -17rem;
-  animation-duration: 19s;
-}
-.bokeh div:nth-child(35) {
-  width: 40.0967947766rem;
-  height: 40.0967947766rem;
-  top: 24%;
-  left: 43%;
-  color: rgba(144, 0, 5, 0.5176470588);
-  opacity: 22.1;
-  box-shadow: 40.1967947766rem 0 0.125083764rem currentColor;
-  filter: brightness(232%);
-  transform-origin: -4rem 7rem;
-  animation-duration: 18s;
-}
-.bokeh div:nth-child(36) {
-  width: 40.6716546101rem;
-  height: 40.6716546101rem;
-  top: 34%;
-  left: 89%;
-  color: rgba(1, 142, 109, 0.537254902);
-  opacity: 29.45;
-  box-shadow: 40.7716546101rem 0 0.8893997845rem currentColor;
-  filter: brightness(109%);
-  transform-origin: 17rem -6rem;
+  opacity: 29.9;
+  box-shadow: 40.1540434698rem 0 0.3401199738rem currentColor;
+  filter: brightness(134%);
+  transform-origin: 15rem 14rem;
   animation-duration: 21s;
 }
-.bokeh div:nth-child(37) {
-  width: 40.1113214306rem;
-  height: 40.1113214306rem;
-  top: 7%;
-  left: 61%;
-  color: rgba(1, 142, 109, 0.537254902);
-  opacity: 29.15;
-  box-shadow: 40.2113214306rem 0 0.2185388994rem currentColor;
-  filter: brightness(247%);
-  transform-origin: -5rem 13rem;
-  animation-duration: 17s;
+.bokeh div:nth-child(18) {
+  width: 40.4067691125rem;
+  height: 40.4067691125rem;
+  top: 16%;
+  left: 100%;
+  color: rgba(144, 0, 5, 0.5176470588);
+  opacity: 27.05;
+  box-shadow: 40.5067691125rem 0 0.2885595668rem currentColor;
+  filter: brightness(166%);
+  transform-origin: 3rem -19rem;
+  animation-duration: 26s;
 }
-.bokeh div:nth-child(38) {
-  width: 40.0139172164rem;
-  height: 40.0139172164rem;
-  top: 45%;
-  left: 1%;
+.bokeh div:nth-child(19) {
+  width: 40.6602126804rem;
+  height: 40.6602126804rem;
+  top: 95%;
+  left: 3%;
+  color: rgba(1, 142, 109, 0.537254902);
+  opacity: 31.1;
+  box-shadow: 40.7602126804rem 0 0.5100817587rem currentColor;
+  filter: brightness(144%);
+  transform-origin: 15rem 14rem;
+  animation-duration: 20s;
+}
+.bokeh div:nth-child(20) {
+  width: 40.719085996rem;
+  height: 40.719085996rem;
+  top: 16%;
+  left: 12%;
   color: rgba(3, 97, 164, 0.537254902);
-  opacity: 21.05;
-  box-shadow: 40.1139172164rem 0 0.4515826594rem currentColor;
-  filter: brightness(159%);
-  transform-origin: -3rem -5rem;
+  opacity: 24.35;
+  box-shadow: 40.819085996rem 0 0.4550338907rem currentColor;
+  filter: brightness(179%);
+  transform-origin: -12rem -1rem;
+  animation-duration: 26s;
+}
+.bokeh div:nth-child(21) {
+  width: 40.3469086099rem;
+  height: 40.3469086099rem;
+  top: 75%;
+  left: 45%;
+  color: rgba(144, 0, 5, 0.5176470588);
+  opacity: 24.65;
+  box-shadow: 40.4469086099rem 0 0.2163643142rem currentColor;
+  filter: brightness(158%);
+  transform-origin: -15rem -14rem;
+  animation-duration: 23s;
+}
+.bokeh div:nth-child(22) {
+  width: 40.2264861732rem;
+  height: 40.2264861732rem;
+  top: 59%;
+  left: 61%;
+  color: rgba(3, 97, 164, 0.537254902);
+  opacity: 23.9;
+  box-shadow: 40.3264861732rem 0 1.0471660444rem currentColor;
+  filter: brightness(243%);
+  transform-origin: -2rem 20rem;
   animation-duration: 19s;
 }
-.bokeh div:nth-child(39) {
-  width: 40.44447736rem;
-  height: 40.44447736rem;
-  top: 29%;
-  left: 45%;
+.bokeh div:nth-child(23) {
+  width: 40.1186881973rem;
+  height: 40.1186881973rem;
+  top: 45%;
+  left: 13%;
   color: rgba(1, 142, 109, 0.537254902);
-  opacity: 32;
-  box-shadow: 40.54447736rem 0 0.4575634924rem currentColor;
-  filter: brightness(223%);
-  transform-origin: 9rem 1rem;
+  opacity: 30.8;
+  box-shadow: 40.2186881973rem 0 0.5965595154rem currentColor;
+  filter: brightness(216%);
+  transform-origin: 17rem 16rem;
+  animation-duration: 17s;
+}
+.bokeh div:nth-child(24) {
+  width: 40.1765255739rem;
+  height: 40.1765255739rem;
+  top: 16%;
+  left: 19%;
+  color: rgba(144, 0, 5, 0.5176470588);
+  opacity: 22.25;
+  box-shadow: 40.2765255739rem 0 0.7813155658rem currentColor;
+  filter: brightness(105%);
+  transform-origin: 8rem 18rem;
+  animation-duration: 26s;
+}
+.bokeh div:nth-child(25) {
+  width: 40.4458932285rem;
+  height: 40.4458932285rem;
+  top: 38%;
+  left: 10%;
+  color: rgba(1, 142, 109, 0.537254902);
+  opacity: 26.9;
+  box-shadow: 40.5458932285rem 0 0.2228260963rem currentColor;
+  filter: brightness(109%);
+  transform-origin: 0rem 1rem;
+  animation-duration: 23s;
+}
+.bokeh div:nth-child(26) {
+  width: 40.0762537318rem;
+  height: 40.0762537318rem;
+  top: 30%;
+  left: 24%;
+  color: rgba(1, 142, 109, 0.537254902);
+  opacity: 28.25;
+  box-shadow: 40.1762537318rem 0 0.7486542858rem currentColor;
+  filter: brightness(177%);
+  transform-origin: 11rem 20rem;
+  animation-duration: 22s;
+}
+.bokeh div:nth-child(27) {
+  width: 40.0520455288rem;
+  height: 40.0520455288rem;
+  top: 63%;
+  left: 84%;
+  color: rgba(144, 0, 5, 0.5176470588);
+  opacity: 24.05;
+  box-shadow: 40.1520455288rem 0 0.8044876917rem currentColor;
+  filter: brightness(158%);
+  transform-origin: 18rem -11rem;
+  animation-duration: 20s;
+}
+.bokeh div:nth-child(28) {
+  width: 40.1112742275rem;
+  height: 40.1112742275rem;
+  top: 64%;
+  left: 49%;
+  color: rgba(1, 142, 109, 0.537254902);
+  opacity: 28.25;
+  box-shadow: 40.2112742275rem 0 0.1567393323rem currentColor;
+  filter: brightness(156%);
+  transform-origin: -19rem -9rem;
   animation-duration: 25s;
 }
-.bokeh div:nth-child(40) {
-  width: 40.8056364583rem;
-  height: 40.8056364583rem;
-  top: 64%;
-  left: 34%;
+.bokeh div:nth-child(29) {
+  width: 40.961458827rem;
+  height: 40.961458827rem;
+  top: 8%;
+  left: 57%;
   color: rgba(1, 142, 109, 0.537254902);
-  opacity: 31.7;
-  box-shadow: 40.9056364583rem 0 0.1662280962rem currentColor;
-  filter: brightness(234%);
-  transform-origin: -8rem 6rem;
+  opacity: 23.15;
+  box-shadow: 41.061458827rem 0 0.4214439521rem currentColor;
+  filter: brightness(107%);
+  transform-origin: -8rem -17rem;
+  animation-duration: 23s;
+}
+.bokeh div:nth-child(30) {
+  width: 40.6551067555rem;
+  height: 40.6551067555rem;
+  top: 65%;
+  left: 65%;
+  color: rgba(1, 142, 109, 0.537254902);
+  opacity: 25.85;
+  box-shadow: 40.7551067555rem 0 0.6169249333rem currentColor;
+  filter: brightness(240%);
+  transform-origin: -18rem -18rem;
+  animation-duration: 22s;
+}
+.bokeh div:nth-child(31) {
+  width: 40.8613367284rem;
+  height: 40.8613367284rem;
+  top: 83%;
+  left: 47%;
+  color: rgba(1, 142, 109, 0.537254902);
+  opacity: 23.9;
+  box-shadow: 40.9613367284rem 0 0.3594238052rem currentColor;
+  filter: brightness(211%);
+  transform-origin: 19rem 6rem;
+  animation-duration: 25s;
+}
+.bokeh div:nth-child(32) {
+  width: 40.9949432009rem;
+  height: 40.9949432009rem;
+  top: 37%;
+  left: 3%;
+  color: rgba(3, 97, 164, 0.537254902);
+  opacity: 26;
+  box-shadow: 41.0949432009rem 0 0.1634277336rem currentColor;
+  filter: brightness(147%);
+  transform-origin: 19rem -1rem;
+  animation-duration: 19s;
+}
+.bokeh div:nth-child(33) {
+  width: 40.2100883183rem;
+  height: 40.2100883183rem;
+  top: 76%;
+  left: 100%;
+  color: rgba(3, 97, 164, 0.537254902);
+  opacity: 26.45;
+  box-shadow: 40.3100883183rem 0 0.9526162287rem currentColor;
+  filter: brightness(194%);
+  transform-origin: -6rem 7rem;
+  animation-duration: 21s;
+}
+.bokeh div:nth-child(34) {
+  width: 40.2157638737rem;
+  height: 40.2157638737rem;
+  top: 76%;
+  left: 15%;
+  color: rgba(3, 97, 164, 0.537254902);
+  opacity: 21.95;
+  box-shadow: 40.3157638737rem 0 0.9243208722rem currentColor;
+  filter: brightness(193%);
+  transform-origin: 1rem 7rem;
   animation-duration: 17s;
+}
+.bokeh div:nth-child(35) {
+  width: 40.0826758318rem;
+  height: 40.0826758318rem;
+  top: 97%;
+  left: 24%;
+  color: rgba(3, 97, 164, 0.537254902);
+  opacity: 23.45;
+  box-shadow: 40.1826758318rem 0 0.704109993rem currentColor;
+  filter: brightness(226%);
+  transform-origin: -4rem 16rem;
+  animation-duration: 20s;
+}
+.bokeh div:nth-child(36) {
+  width: 40.8537930033rem;
+  height: 40.8537930033rem;
+  top: 40%;
+  left: 32%;
+  color: rgba(1, 142, 109, 0.537254902);
+  opacity: 24.2;
+  box-shadow: 40.9537930033rem 0 0.4890527854rem currentColor;
+  filter: brightness(215%);
+  transform-origin: 8rem -16rem;
+  animation-duration: 17s;
+}
+.bokeh div:nth-child(37) {
+  width: 40.3409163946rem;
+  height: 40.3409163946rem;
+  top: 92%;
+  left: 44%;
+  color: rgba(3, 97, 164, 0.537254902);
+  opacity: 25.7;
+  box-shadow: 40.4409163946rem 0 0.5864374592rem currentColor;
+  filter: brightness(225%);
+  transform-origin: -4rem 15rem;
+  animation-duration: 19s;
+}
+.bokeh div:nth-child(38) {
+  width: 40.5049787466rem;
+  height: 40.5049787466rem;
+  top: 34%;
+  left: 48%;
+  color: rgba(144, 0, 5, 0.5176470588);
+  opacity: 25.25;
+  box-shadow: 40.6049787466rem 0 0.6929547865rem currentColor;
+  filter: brightness(146%);
+  transform-origin: -8rem 19rem;
+  animation-duration: 26s;
+}
+.bokeh div:nth-child(39) {
+  width: 40.96643866rem;
+  height: 40.96643866rem;
+  top: 81%;
+  left: 97%;
+  color: rgba(1, 142, 109, 0.537254902);
+  opacity: 20.3;
+  box-shadow: 41.06643866rem 0 0.9787475107rem currentColor;
+  filter: brightness(112%);
+  transform-origin: -10rem -17rem;
+  animation-duration: 18s;
+}
+.bokeh div:nth-child(40) {
+  width: 40.2553810374rem;
+  height: 40.2553810374rem;
+  top: 66%;
+  left: 50%;
+  color: rgba(144, 0, 5, 0.5176470588);
+  opacity: 29;
+  box-shadow: 40.3553810374rem 0 0.315649068rem currentColor;
+  filter: brightness(138%);
+  transform-origin: -18rem 12rem;
+  animation-duration: 25s;
 }
 
 @keyframes bokeh {
@@ -538,7 +538,7 @@ body {
 .subtitle {
   font-size: 30px;
   font-family: "neue-haas-unica", sans-serif;
-  font-weight: 200;
+  font-weight: 300;
   font-style: normal;
   text-align: center;
   position: absolute;
