@@ -4,7 +4,7 @@ body {
     padding: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background: linear-gradient(-45deg, #7b042099, #045471b6, #0262a3b1);
     background-size: cover;
     animation: gradient 20s ease infinite;
 }
@@ -28,7 +28,7 @@ body {
     width: 100%;
     height: 100%;
     position: relative;
-    background: #8e89007b;
+    background: linear-gradient(to bottom, #006f8e7b, #8e000e7b);
     overflow: hidden;
     filter: blur(150px);
 
@@ -42,11 +42,9 @@ $bokehBaseOpacity: 20;
 $bokehBaseBrightness: 100;
 $bokehBaseDuration: 16s;
 $colorSet: (
-    #00437289,
-    #018e8089,
-    #7e007684,
-    #9d150070,
-    #91000077,
+    #0361a489,
+    #018e6d89,
+    #90000584,
 );
 
 .bokeh div {
@@ -80,9 +78,9 @@ $colorSet: (
 }
 
 .welcome-text {
-    font-size: 120px;
+    font-size: 160px;
     font-family: "neue-haas-unica", sans-serif;
-    font-weight: 100;
+    font-weight: 600;
     font-style: normal;
     text-align: center;
     position: absolute;
