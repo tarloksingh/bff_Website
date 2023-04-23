@@ -89,3 +89,17 @@ $colorSet: (
     transform: translate(-50%, -50%);
     color: white
 }
+
+.subtitle {
+    font-size: 35px;
+    font-family: "neue-haas-unica", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: 100px;
+    transform: translate(-50%, -50%);
+    color: white
+}
