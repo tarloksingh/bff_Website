@@ -7,14 +7,20 @@
 }
 
 .buttons button {
-    font-size: 40px;
+    font-size: 18px;
 
     font-family: "neue-haas-unica", sans-serif;
     font-weight: 200;
     font-style: normal;
-    padding: 30px;
+    padding: auto;
     border: none;
     background-color: #ffffff00;
     color: #0085a3;
     cursor: pointer;
+}
+
+@media only screen and (max-width: 600px) {
+    .buttons button {
+        font-size: 15px;
+    }
 }
