@@ -136,3 +136,44 @@ img {
     color: #ffffff;
     cursor: pointer;
 }
+
+@media (min-width: 450px) {
+    /* Apply styles for screens larger than 768px */
+
+    .welcome-text {
+        font-size: 140px;
+        top: 40%;
+    }
+
+    .subtitle {
+        font-size: 20px;
+        top: 50%;
+        margin-top: 20px;
+    }
+
+    img {
+        margin-top: 150px;
+        width: 200px;
+    }
+
+    .buttons button {
+        font-size: 20px;
+        padding: 15px;
+    }
+
+    .bokeh div {
+        @for $i from 1 through $bokehCount {
+            &:nth-child(#{$i}) {
+                $randomizedSize: random() * 60+$bokehBaseSize;
+                width: $randomizedSize;
+                height: $randomizedSize;
+                top: random(100) * 1%;
+                left: random(100) * 1%;
+                box-shadow: ($randomizedSize + .1rem) 0 (0.1rem + random() * 1rem) currentColor;
+                filter: brightness($bokehBaseBrightness + random(150) * 1%);
+                transform-origin: (random(40) - 20) * 1rem (random(40) - 20) * 1rem;
+                animation-duration: $bokehBaseDuration + random(10) * 1s;
+            }
+        }
+    }
+}
